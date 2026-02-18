@@ -1,0 +1,24 @@
+{
+  "java_preferred_type": "luna",
+  "launcher_version": 0,
+  "boot_version": 0,
+  "launcher_jar_url": "https://launcher.neranw.com.tr/launcher/launcher/launcher.jar",
+  "launcher_jar_path": "launcher.jar",
+  "client_description": "Nera Network'de oynamak",
+  "client_info_description": "Nera Network'de yapılacak çok şey var. Şimdi keşfet!",
+  "client_optifine": "1.8.9 OptiFine Ultra",
+  "client_version": "1.8.9",
+  "launcher_title": "Nera Network Minecraft Launcher",
+  "tabs": ["H A B E R L E R", "A Y A R L A R"],
+  "status_launching_settings": "Ayarlar uygulanıyor...",
+  "status_loading_fonts": "Fontlar Yükleniyor...",
+  "status_launching": "Launcher Başlatılıyor...",
+  "status": "Bekliyor...",
+  "news": [
+    {
+      "title": "Nera Network'de oynamak",
+      "description": "Nera Network'de yapılacak çok şey var. Şimdi keşfet!",
+      "image": "https://raw.githubusercontent.com/finxstal/LunaLauncher/main/news_1.jpg"
+    }
+  ]
+}
